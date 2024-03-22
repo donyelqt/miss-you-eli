@@ -20,7 +20,7 @@ function Hero() {
           </div>
         </div>
   
-        <div className="relative flex items-center bg-purple-100">
+        <div className="relative flex items-center bg-purple-200">
           <span
             className="hidden lg:absolute lg:inset-y-0 lg:-start-16 lg:block lg:w-16 lg:bg-gray-100"
           ></span>
