@@ -27,7 +27,7 @@ function Hero() {
   
           <div className="p-8 sm:p-16 lg:p-24">
             <h2 className="text-2xl font-bold sm:text-3xl" style={{ fontFamily: '"Lucida Fax Demi", serif' }}>
-              Miss na kita, <span className='text-primary'>Eli</span>. Sana magbati na tayo💜🌷🪻🐈‍⬛ㅤ
+              Miss na kita, <span className='text-primary'>Eli</span>. Sana magbati na tayo💜🌷🪻ㅤ
             </h2>
   
             <p className="mt-4 text-sm text-gray-600">
