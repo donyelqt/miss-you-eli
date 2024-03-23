@@ -30,7 +30,7 @@ function Hero() {
               Miss na kita, <span className='text-primary'>Eli</span>. Sana magbati na tayo💜🌷🪻ㅤ
             </h2>
   
-            <p className="mt-4 text-sm text-gray-600">
+            <p className="mt-4 text-gray-600">
             Magbati na tayo, Eli. Pasensya ka na, Eli. Nirerespeto ko naman ang personal mong buhay. Ganito 'yan, naalala mo nung hindi ako nakakapagreply agad sayo dahil busy ako, nagalit ka at nagtatampo at blinock mo pa nga ako. Kaya ngayon, nagiging responsive na ako at sinisikap na kausapin ka lagi pero sumobra na hanggang sa point na kinukulit na kita. Akala ko ganun ang gusto mo, kaya din kita kinukulit kahit pagod ka kasi bigla kang nag-iba ng kilos kaya i-overthink, na akala ko na may iba pang dahilan, which is wag naman dapat. Tas ayun, naging lead na pangungulit ko sayo na di ko naman ginusto na kulitin ka. Kung di ako nag-overthink, probably hinayaan kita magpahinga, which is deserved mo yun, kagaya nung nagrereview ka. Kaya pasensya na din sa pagiging overthink ko at sa naging galaw ko. Kaya sana mapatawad mo ako, magbati na tayo, Eli at sana ma-unblock mo na’ko sa fb at ig. miss na kita, eli💜🪻
             </p>
   
